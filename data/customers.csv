@@ -129,7 +129,7 @@ C0127;45246;social;Hanoi
 C0128;45283;referral;Can Tho
 C0129;45320;email;Danang
 C0130;45357;paid_search;Ho Chi Minh
-C0131;45394;organic;Hue
+C0131;45394;orgaic;Hue
 C0132;45431;social;Hanoi
 C0133;45468;referral;Can Tho
 C0134;45505;email;Danang
@@ -456,7 +456,7 @@ C0454;44935;email;Danang
 C0455;44972;paid_search;Ho Chi Minh
 C0456;45009;organic;Hue
 C0457;45046;social;Hanoi
-C0458;45083;referral;Can Tho
+C0458;45083;refrral;Can Tho
 C0459;45120;email;Danang
 C0460;45157;paid_search;Ho Chi Minh
 C0461;45194;organic;Hue
@@ -485,7 +485,7 @@ C0483;45278;referral;Can Tho
 C0484;45315;email;Danang
 C0485;45352;paid_search;Ho Chi Minh
 C0486;45389;organic;Hue
-C0487;45426;social;Hanoi
+;45426;social;Hanoi
 C0488;45463;referral;Can Tho
 C0489;45500;email;Danang
 C0490;45537;paid_search;Ho Chi Minh
@@ -655,7 +655,7 @@ C0653;44998;referral;Can Tho
 C0654;45035;email;Danang
 C0655;45072;paid_search;Ho Chi Minh
 C0656;45109;organic;Hue
-C0657;45146;social;Hanoi
+C0657;45146;nn;Hanoi
 C0658;45183;referral;Can Tho
 C0659;45220;email;Danang
 C0660;45257;paid_search;Ho Chi Minh
@@ -700,7 +700,7 @@ C0698;45203;referral;Can Tho
 C0699;45240;email;Danang
 C0700;45277;paid_search;Ho Chi Minh
 C0701;45314;organic;Hue
-C0702;45351;social;Hanoi
+C0702;45351;nn;Hanoi
 C0703;45388;referral;Can Tho
 C0704;45425;email;Danang
 C0705;45462;paid_search;Ho Chi Minh
@@ -711,7 +711,7 @@ C0709;45610;email;Danang
 C0710;45647;paid_search;Ho Chi Minh
 C0711;44954;organic;Hue
 C0712;44991;social;Hanoi
-C0713;45028;referral;Can Tho
+C0713;45028;nn;Can Tho
 C0714;45065;email;Danang
 C0715;45102;paid_search;Ho Chi Minh
 C0716;45139;organic;Hue
@@ -764,7 +764,7 @@ C0762;45381;social;Hanoi
 C0763;45418;referral;Can Tho
 C0764;45455;email;Danang
 C0765;45492;paid_search;Ho Chi Minh
-C0766;45529;organic;Hue
+;45529;organic;Hue
 C0767;45566;social;Hanoi
 C0768;45603;referral;Can Tho
 C0769;45640;email;Danang
@@ -778,9 +778,9 @@ C0776;45169;organic;Hue
 C0777;45206;social;Hanoi
 C0778;45243;referral;Can Tho
 C0779;45280;email;Danang
-C0780;45317;paid_search;Ho Chi Minh
-C0781;45354;organic;Hue
-C0782;45391;social;Hanoi
+;45317;paid_search;Ho Chi Minh
+;45354;organic;Hue
+;45391;social;Hanoi
 C0783;45428;referral;Can Tho
 C0784;45465;email;Danang
 C0785;45502;paid_search;Ho Chi Minh
@@ -803,7 +803,7 @@ C0801;45364;organic;Hue
 C0802;45401;social;Hanoi
 C0803;45438;referral;Can Tho
 C0804;45475;email;Danang
-C0805;45512;paid_search;Ho Chi Minh
+C0805;45512;nn;Ho Chi Minh
 C0806;45549;organic;Hue
 C0807;45586;social;Hanoi
 C0808;45623;referral;Can Tho
@@ -819,7 +819,7 @@ C0817;45226;social;Hanoi
 C0818;45263;referral;Can Tho
 C0819;45300;email;Danang
 C0820;45337;paid_search;Ho Chi Minh
-C0821;45374;organic;Hue
+C0821;45374;nn;Hue
 C0822;45411;social;Hanoi
 C0823;45448;referral;Can Tho
 C0824;45485;email;Danang
@@ -832,7 +832,7 @@ C0830;44977;paid_search;Ho Chi Minh
 C0831;45014;organic;Hue
 C0832;45051;social;Hanoi
 C0833;45088;referral;Can Tho
-C0834;45125;email;Danang
+C0834;45125;nn;Danang
 C0835;45162;paid_search;Ho Chi Minh
 C0836;45199;organic;Hue
 C0837;45236;social;Hanoi
@@ -841,14 +841,14 @@ C0839;45310;email;Danang
 C0840;45347;paid_search;Ho Chi Minh
 C0841;45384;organic;Hue
 C0842;45421;social;Hanoi
-C0843;45458;referral;Can Tho
+C0843;45458;nn;Can Tho
 C0844;45495;email;Danang
 C0845;45532;paid_search;Ho Chi Minh
 C0846;45569;organic;Hue
 C0847;45606;social;Hanoi
 C0848;45643;referral;Can Tho
 C0849;44950;email;Danang
-C0850;44987;paid_search;Ho Chi Minh
+C0850;44987;nn;Ho Chi Minh
 C0851;45024;organic;Hue
 C0852;45061;social;Hanoi
 C0853;45098;referral;Can Tho
@@ -914,7 +914,7 @@ C0912;45091;social;Hanoi
 C0913;45128;referral;Can Tho
 C0914;45165;email;Danang
 C0915;45202;paid_search;Ho Chi Minh
-C0916;45239;organic;Hue
+C0916;45239;nn;Hue
 C0917;45276;social;Hanoi
 C0918;45313;referral;Can Tho
 C0919;45350;email;Danang
@@ -1000,7 +1000,7 @@ C0998;45353;referral;Can Tho
 C0999;45390;email;Danang
 C1000;45427;paid_search;Ho Chi Minh
 C1001;45464;organic;Hue
-C1002;45501;social;Hanoi
+C1002;45501;nn;Hanoi
 C1003;45538;referral;Can Tho
 C1004;45575;email;Danang
 C1005;45612;paid_search;Ho Chi Minh
@@ -1013,7 +1013,7 @@ C1011;45104;organic;Hue
 C1012;45141;social;Hanoi
 C1013;45178;referral;Can Tho
 C1014;45215;email;Danang
-C1015;45252;paid_search;Ho Chi Minh
+C1015;45252;nn;Ho Chi Minh
 C1016;45289;organic;Hue
 C1017;45326;social;Hanoi
 C1018;45363;referral;Can Tho
@@ -1129,7 +1129,7 @@ C1127;45016;social;Hanoi
 C1128;45053;referral;Can Tho
 C1129;45090;email;Danang
 C1130;45127;paid_search;Ho Chi Minh
-C1131;45164;organic;Hue
+C1131;45164;orgnic;Hue
 C1132;45201;social;Hanoi
 C1133;45238;referral;Can Tho
 C1134;45275;email;Danang
@@ -1176,7 +1176,7 @@ C1174;45295;email;Danang
 C1175;45332;paid_search;Ho Chi Minh
 C1176;45369;organic;Hue
 C1177;45406;social;Hanoi
-C1178;45443;referral;Can Tho
+;45443;referral;Can Tho
 C1179;45480;email;Danang
 C1180;45517;paid_search;Ho Chi Minh
 C1181;45554;organic;Hue
@@ -1346,7 +1346,7 @@ C1344;45015;email;Danang
 C1345;45052;paid_search;Ho Chi Minh
 C1346;45089;organic;Hue
 C1347;45126;social;Hanoi
-C1348;45163;referral;Can Tho
+C1348;45163;refrral;Can Tho
 C1349;45200;email;Danang
 C1350;45237;paid_search;Ho Chi Minh
 C1351;45274;organic;Hue
@@ -1437,7 +1437,7 @@ C1435;45462;paid_search;Ho Chi Minh
 C1436;45499;organic;Hue
 C1437;45536;social;Hanoi
 C1438;45573;referral;Can Tho
-C1439;45610;email;Danang
+;45610;email;Danang
 C1440;45647;paid_search;Ho Chi Minh
 C1441;44954;organic;Hue
 C1442;44991;social;Hanoi
@@ -1635,7 +1635,7 @@ C1633;45488;referral;Can Tho
 C1634;45525;email;Danang
 C1635;45562;paid_search;Ho Chi Minh
 C1636;45599;organic;Hue
-C1637;45636;social;Hanoi
+;45636;social;Hanoi
 C1638;44943;referral;Can Tho
 C1639;44980;email;Danang
 C1640;45017;paid_search;Ho Chi Minh
@@ -1733,7 +1733,7 @@ C1731;45464;organic;Hue
 C1732;45501;social;Hanoi
 C1733;45538;referral;Can Tho
 C1734;45575;email;Danang
-C1735;45612;paid_search;Ho Chi Minh
+C1735;45612;paid search;Ho Chi Minh
 C1736;45649;organic;Hue
 C1737;44956;social;Hanoi
 C1738;44993;referral;Can Tho
@@ -1804,7 +1804,7 @@ C1802;45171;social;Hanoi
 C1803;45208;referral;Can Tho
 C1804;45245;email;Danang
 C1805;45282;paid_search;Ho Chi Minh
-C1806;45319;organic;Hue
+;45319;organic;Hue
 C1807;45356;social;Hanoi
 C1808;45393;referral;Can Tho
 C1809;45430;email;Danang
@@ -1823,7 +1823,7 @@ C1821;45144;organic;Hue
 C1822;45181;social;Hanoi
 C1823;45218;referral;Can Tho
 C1824;45255;email;Danang
-C1825;45292;paid_search;Ho Chi Minh
+;45292;paid_search;Ho Chi Minh
 C1826;45329;organic;Hue
 C1827;45366;social;Hanoi
 C1828;45403;referral;Can Tho
@@ -2086,7 +2086,7 @@ C2084;45385;email;Danang
 C2085;45422;paid_search;Ho Chi Minh
 C2086;45459;organic;Hue
 C2087;45496;social;Hanoi
-C2088;45533;referral;Can Tho
+;45533;referral;Can Tho
 C2089;45570;email;Danang
 C2090;45607;paid_search;Ho Chi Minh
 C2091;45644;organic;Hue
@@ -2262,7 +2262,7 @@ C2260;45327;paid_search;Ho Chi Minh
 C2261;45364;organic;Hue
 C2262;45401;social;Hanoi
 C2263;45438;referral;Can Tho
-C2264;45475;email;Danang
+;45475;email;Danang
 C2265;45512;paid_search;Ho Chi Minh
 C2266;45549;organic;Hue
 C2267;45586;social;Hanoi
@@ -2301,7 +2301,7 @@ C2299;45310;email;Danang
 C2300;45347;paid_search;Ho Chi Minh
 C2301;45384;organic;Hue
 C2302;45421;social;Hanoi
-C2303;45458;referral;Can Tho
+;45458;referral;Can Tho
 C2304;45495;email;Danang
 C2305;45532;paid_search;Ho Chi Minh
 C2306;45569;organic;Hue
@@ -2482,7 +2482,7 @@ C2480;45437;paid_search;Ho Chi Minh
 C2481;45474;organic;Hue
 C2482;45511;social;Hanoi
 C2483;45548;referral;Can Tho
-C2484;45585;email;Danang
+;45585;email;Danang
 C2485;45622;paid_search;Ho Chi Minh
 C2486;44929;organic;Hue
 C2487;44966;social;Hanoi
@@ -2523,7 +2523,7 @@ C2521;45494;organic;Hue
 C2522;45531;social;Hanoi
 C2523;45568;referral;Can Tho
 C2524;45605;email;Danang
-C2525;45642;paid_search;Ho Chi Minh
+C2525;45642;paid search;Ho Chi Minh
 C2526;44949;organic;Hue
 C2527;44986;social;Hanoi
 C2528;45023;referral;Can Tho
@@ -2576,7 +2576,7 @@ C2574;45265;email;Danang
 C2575;45302;paid_search;Ho Chi Minh
 C2576;45339;organic;Hue
 C2577;45376;social;Hanoi
-C2578;45413;referral;Can Tho
+;45413;referral;Can Tho
 C2579;45450;email;Danang
 C2580;45487;paid_search;Ho Chi Minh
 C2581;45524;organic;Hue
@@ -2586,7 +2586,7 @@ C2584;45635;email;Danang
 C2585;44942;paid_search;Ho Chi Minh
 C2586;44979;organic;Hue
 C2587;45016;social;Hanoi
-C2588;45053;referral;Can Tho
+;45053;referral;Can Tho
 C2589;45090;email;Danang
 C2590;45127;paid_search;Ho Chi Minh
 C2591;45164;organic;Hue
@@ -2616,7 +2616,7 @@ C2614;45285;email;Danang
 C2615;45322;paid_search;Ho Chi Minh
 C2616;45359;organic;Hue
 C2617;45396;social;Hanoi
-C2618;45433;referral;Can Tho
+;45433;referral;Can Tho
 C2619;45470;email;Danang
 C2620;45507;paid_search;Ho Chi Minh
 C2621;45544;organic;Hue
@@ -2642,7 +2642,7 @@ C2640;45517;paid_search;Ho Chi Minh
 C2641;45554;organic;Hue
 C2642;45591;social;Hanoi
 C2643;45628;referral;Can Tho
-C2644;44935;email;Danang
+;44935;email;Danang
 C2645;44972;paid_search;Ho Chi Minh
 C2646;45009;organic;Hue
 C2647;45046;social;Hanoi
@@ -2684,14 +2684,14 @@ C2682;45611;social;Hanoi
 C2683;45648;referral;Can Tho
 C2684;44955;email;Danang
 C2685;44992;paid_search;Ho Chi Minh
-C2686;45029;organic;Hue
+C2686;45029;orgnic;Hue
 C2687;45066;social;Hanoi
 C2688;45103;referral;Can Tho
 C2689;45140;email;Danang
 C2690;45177;paid_search;Ho Chi Minh
 C2691;45214;organic;Hue
 C2692;45251;social;Hanoi
-C2693;45288;referral;Can Tho
+;45288;referral;Can Tho
 C2694;45325;email;Danang
 C2695;45362;paid_search;Ho Chi Minh
 C2696;45399;organic;Hue
@@ -2718,7 +2718,7 @@ C2716;45409;organic;Hue
 C2717;45446;social;Hanoi
 C2718;45483;referral;Can Tho
 C2719;45520;email;Danang
-C2720;45557;paid_search;Ho Chi Minh
+;45557;paid_search;Ho Chi Minh
 C2721;45594;organic;Hue
 C2722;45631;social;Hanoi
 C2723;44938;referral;Can Tho
@@ -2759,7 +2759,7 @@ C2757;45466;social;Hanoi
 C2758;45503;referral;Can Tho
 C2759;45540;email;Danang
 C2760;45577;paid_search;Ho Chi Minh
-C2761;45614;organic;Hue
+;45614;organic;Hue
 C2762;45651;social;Hanoi
 C2763;44958;referral;Can Tho
 C2764;44995;email;Danang
@@ -2904,7 +2904,7 @@ C2902;44991;social;Hanoi
 C2903;45028;referral;Can Tho
 C2904;45065;email;Danang
 C2905;45102;paid_search;Ho Chi Minh
-C2906;45139;organic;Hue
+;45139;organic;Hue
 C2907;45176;social;Hanoi
 C2908;45213;referral;Can Tho
 C2909;45250;email;Danang
@@ -3145,7 +3145,7 @@ C3143;45148;referral;Can Tho
 C3144;45185;email;Danang
 C3145;45222;paid_search;Ho Chi Minh
 C3146;45259;organic;Hue
-C3147;45296;social;Hanoi
+;45296;social;Hanoi
 C3148;45333;referral;Can Tho
 C3149;45370;email;Danang
 C3150;45407;paid_search;Ho Chi Minh
@@ -3189,7 +3189,7 @@ C3187;45316;social;Hanoi
 C3188;45353;referral;Can Tho
 C3189;45390;email;Danang
 C3190;45427;paid_search;Ho Chi Minh
-C3191;45464;organic;Hue
+;45464;organic;Hue
 C3192;45501;social;Hanoi
 C3193;45538;referral;Can Tho
 C3194;45575;email;Danang
@@ -3203,7 +3203,7 @@ C3201;45104;organic;Hue
 C3202;45141;social;Hanoi
 C3203;45178;referral;Can Tho
 C3204;45215;email;Danang
-C3205;45252;paid_search;Ho Chi Minh
+;45252;paid_search;Ho Chi Minh
 C3206;45289;organic;Hue
 C3207;45326;social;Hanoi
 C3208;45363;referral;Can Tho
@@ -3280,13 +3280,13 @@ C3278;45033;referral;Can Tho
 C3279;45070;email;Danang
 C3280;45107;paid_search;Ho Chi Minh
 C3281;45144;organic;Hue
-C3282;45181;social;Hanoi
+C3282;45181;socil;Hanoi
 C3283;45218;referral;Can Tho
 C3284;45255;email;Danang
 C3285;45292;paid_search;Ho Chi Minh
 C3286;45329;organic;Hue
 C3287;45366;social;Hanoi
-C3288;45403;referral;Can Tho
+;45403;referral;Can Tho
 C3289;45440;email;Danang
 C3290;45477;paid_search;Ho Chi Minh
 C3291;45514;organic;Hue
@@ -3376,7 +3376,7 @@ C3374;44935;email;Danang
 C3375;44972;paid_search;Ho Chi Minh
 C3376;45009;organic;Hue
 C3377;45046;social;Hanoi
-C3378;45083;referral;Can Tho
+;45083;referral;Can Tho
 C3379;45120;email;Danang
 C3380;45157;paid_search;Ho Chi Minh
 C3381;45194;organic;Hue
@@ -3657,7 +3657,7 @@ C3655;45112;paid_search;Ho Chi Minh
 C3656;45149;organic;Hue
 C3657;45186;social;Hanoi
 C3658;45223;referral;Can Tho
-C3659;45260;email;Danang
+;45260;email;Danang
 C3660;45297;paid_search;Ho Chi Minh
 C3661;45334;organic;Hue
 C3662;45371;social;Hanoi
@@ -3910,7 +3910,7 @@ C3908;44983;referral;Can Tho
 C3909;45020;email;Danang
 C3910;45057;paid_search;Ho Chi Minh
 C3911;45094;organic;Hue
-C3912;45131;social;Hanoi
+;45131;social;Hanoi
 C3913;45168;referral;Can Tho
 C3914;45205;email;Danang
 C3915;45242;paid_search;Ho Chi Minh
@@ -3944,7 +3944,7 @@ C3942;45511;social;Hanoi
 C3943;45548;referral;Can Tho
 C3944;45585;email;Danang
 C3945;45622;paid_search;Ho Chi Minh
-C3946;44929;organic;Hue
+;44929;organic;Hue
 C3947;44966;social;Hanoi
 C3948;45003;referral;Can Tho
 C3949;45040;email;Danang
@@ -3990,8 +3990,8 @@ C3988;45023;referral;Can Tho
 C3989;45060;email;Danang
 C3990;45097;paid_search;Ho Chi Minh
 C3991;45134;organic;Hue
-C3992;45171;social;Hanoi
-C3993;45208;referral;Can Tho
+;45171;social;Hanoi
+;45208;referral;Can Tho
 C3994;45245;email;Danang
 C3995;45282;paid_search;Ho Chi Minh
 C3996;45319;organic;Hue
@@ -4023,7 +4023,7 @@ C4021;45514;organic;Hue
 C4022;45551;social;Hanoi
 C4023;45588;referral;Can Tho
 C4024;45625;email;Danang
-C4025;44932;paid_search;Ho Chi Minh
+;44932;paid_search;Ho Chi Minh
 C4026;44969;organic;Hue
 C4027;45006;social;Hanoi
 C4028;45043;referral;Can Tho
@@ -4075,7 +4075,7 @@ C4073;45248;referral;Can Tho
 C4074;45285;email;Danang
 C4075;45322;paid_search;Ho Chi Minh
 C4076;45359;organic;Hue
-C4077;45396;social;Hanoi
+C4077;45396;socil;Hanoi
 C4078;45433;referral;Can Tho
 C4079;45470;email;Danang
 C4080;45507;paid_search;Ho Chi Minh
@@ -4102,7 +4102,7 @@ C4100;45517;paid_search;Ho Chi Minh
 C4101;45554;organic;Hue
 C4102;45591;social;Hanoi
 C4103;45628;referral;Can Tho
-C4104;44935;email;Danang
+;44935;email;Danang
 C4105;44972;paid_search;Ho Chi Minh
 C4106;45009;organic;Hue
 C4107;45046;social;Hanoi
@@ -4138,7 +4138,7 @@ C4136;45389;organic;Hue
 C4137;45426;social;Hanoi
 C4138;45463;referral;Can Tho
 C4139;45500;email;Danang
-C4140;45537;paid_search;Ho Chi Minh
+;45537;paid_search;Ho Chi Minh
 C4141;45574;organic;Hue
 C4142;45611;social;Hanoi
 C4143;45648;referral;Can Tho
@@ -4221,14 +4221,14 @@ C4219;45540;email;Danang
 C4220;45577;paid_search;Ho Chi Minh
 C4221;45614;organic;Hue
 C4222;45651;social;Hanoi
-C4223;44958;referral;Can Tho
+;44958;referral;Can Tho
 C4224;44995;email;Danang
 C4225;45032;paid_search;Ho Chi Minh
 C4226;45069;organic;Hue
 C4227;45106;social;Hanoi
 C4228;45143;referral;Can Tho
 C4229;45180;email;Danang
-C4230;45217;paid_search;Ho Chi Minh
+;45217;paid_search;Ho Chi Minh
 C4231;45254;organic;Hue
 C4232;45291;social;Hanoi
 C4233;45328;referral;Can Tho
@@ -4307,7 +4307,7 @@ C4305;45072;paid_search;Ho Chi Minh
 C4306;45109;organic;Hue
 C4307;45146;social;Hanoi
 C4308;45183;referral;Can Tho
-C4309;45220;email;Danang
+C4309;45220;emmail;Danang
 C4310;45257;paid_search;Ho Chi Minh
 C4311;45294;organic;Hue
 C4312;45331;social;Hanoi
@@ -4380,7 +4380,7 @@ C4378;45583;referral;Can Tho
 C4379;45620;email;Danang
 C4380;44927;paid_search;Ho Chi Minh
 C4381;44964;organic;Hue
-C4382;45001;social;Hanoi
+;45001;social;Hanoi
 C4383;45038;referral;Can Tho
 C4384;45075;email;Danang
 C4385;45112;paid_search;Ho Chi Minh
@@ -4425,7 +4425,7 @@ C4423;45058;referral;Can Tho
 C4424;45095;email;Danang
 C4425;45132;paid_search;Ho Chi Minh
 C4426;45169;organic;Hue
-C4427;45206;social;Hanoi
+;45206;social;Hanoi
 C4428;45243;referral;Can Tho
 C4429;45280;email;Danang
 C4430;45317;paid_search;Ho Chi Minh
@@ -4580,7 +4580,7 @@ C4578;44953;referral;Can Tho
 C4579;44990;email;Danang
 C4580;45027;paid_search;Ho Chi Minh
 C4581;45064;organic;Hue
-C4582;45101;social;Hanoi
+C4582;45101;socia;Hanoi
 C4583;45138;referral;Can Tho
 C4584;45175;email;Danang
 C4585;45212;paid_search;Ho Chi Minh
@@ -4615,7 +4615,7 @@ C4613;45518;referral;Can Tho
 C4614;45555;email;Danang
 C4615;45592;paid_search;Ho Chi Minh
 C4616;45629;organic;Hue
-C4617;44936;social;Hanoi
+;44936;social;Hanoi
 C4618;44973;referral;Can Tho
 C4619;45010;email;Danang
 C4620;45047;paid_search;Ho Chi Minh
@@ -4660,7 +4660,7 @@ C4658;44993;referral;Can Tho
 C4659;45030;email;Danang
 C4660;45067;paid_search;Ho Chi Minh
 C4661;45104;organic;Hue
-C4662;45141;social;Hanoi
+;45141;social;Hanoi
 C4663;45178;referral;Can Tho
 C4664;45215;email;Danang
 C4665;45252;paid_search;Ho Chi Minh
@@ -4736,7 +4736,7 @@ C4734;45615;email;Danang
 C4735;45652;paid_search;Ho Chi Minh
 C4736;44959;organic;Hue
 C4737;44996;social;Hanoi
-C4738;45033;referral;Can Tho
+;45033;referral;Can Tho
 C4739;45070;email;Danang
 C4740;45107;paid_search;Ho Chi Minh
 C4741;45144;organic;Hue
@@ -4764,7 +4764,7 @@ C4762;45191;social;Hanoi
 C4763;45228;referral;Can Tho
 C4764;45265;email;Danang
 C4765;45302;paid_search;Ho Chi Minh
-C4766;45339;organic;Hue
+C4766;45339;organi;Hue
 C4767;45376;social;Hanoi
 C4768;45413;referral;Can Tho
 C4769;45450;email;Danang
@@ -4923,7 +4923,7 @@ C4921;45234;organic;Hue
 C4922;45271;social;Hanoi
 C4923;45308;referral;Can Tho
 C4924;45345;email;Danang
-C4925;45382;paid_search;Ho Chi Minh
+C4925;45382;paid_sarch;Ho Chi Minh
 C4926;45419;organic;Hue
 C4927;45456;social;Hanoi
 C4928;45493;referral;Can Tho
@@ -4987,7 +4987,7 @@ C4985;45412;paid_search;Ho Chi Minh
 C4986;45449;organic;Hue
 C4987;45486;social;Hanoi
 C4988;45523;referral;Can Tho
-C4989;45560;email;Danang
+;45560;email;Danang
 C4990;45597;paid_search;Ho Chi Minh
 C4991;45634;organic;Hue
 C4992;44941;social;Hanoi
@@ -4999,3 +4999,258 @@ C4997;45126;social;Hanoi
 C4998;45163;referral;Can Tho
 C4999;45200;email;Danang
 C5000;45237;paid_search;Ho Chi Minh
+C0013;45408;referral;Can Tho
+C0054;45465;email;Danang
+C0064;45105;email;Danang
+C0072;45401;social;Hanoi
+C0104;45125;email;Danang
+C0120;44987;paid_search;Ho Chi Minh
+C0125;45172;paid_search;Ho Chi Minh
+C0147;45256;social;Hanoi
+C0153;45478;referral;Can Tho
+C0178;44943;referral;Can Tho
+C0179;44980;email;Danang
+C0223;45148;referral;Can Tho
+C0233;45518;referral;Can Tho
+C0246;45269;organic;Hue
+C0275;45612;paid_search;Ho Chi Minh
+C0300;45077;paid_search;Ho Chi Minh
+C0303;45188;referral;Can Tho
+C0319;45050;email;Danang
+C0354;45615;email;Danang
+C0361;45144;organic;Hue
+C0387;45376;social;Hanoi
+C0392;45561;social;Hanoi
+C0405;45312;paid_search;Ho Chi Minh
+C0419;45100;email;Danang
+C0432;45581;social;Hanoi
+C0441;45184;organic;Hue
+C0490;45537;paid_search;Ho Chi Minh
+C0522;45261;social;Hanoi
+C0528;45483;referral;Can Tho
+C0541;45234;organic;Hue
+C0556;45059;organic;Hue
+C0576;45069;organic;Hue
+C0624;45385;email;Danang
+C0635;45062;paid_search;Ho Chi Minh
+C0637;45136;social;Hanoi
+C0652;44961;social;Hanoi
+C0666;45479;organic;Hue
+C0707;45536;social;Hanoi
+C0731;44964;organic;Hue
+C0743;45408;referral;Can Tho
+C0817;45226;social;Hanoi
+C0857;45246;social;Hanoi
+C0871;45034;organic;Hue
+C0884;45515;email;Danang
+C0898;45303;referral;Can Tho
+C0904;45525;email;Danang
+C0914;45165;email;Danang
+C0923;45498;referral;Can Tho
+C0934;45175;email;Danang
+C0944;45545;email;Danang
+C0955;45222;paid_search;Ho Chi Minh
+C0978;45343;referral;Can Tho
+C0980;45417;paid_search;Ho Chi Minh
+C1063;45568;referral;Can Tho
+C1088;45033;referral;Can Tho
+C1107;45006;social;Hanoi
+C1163;45618;referral;Can Tho
+C1210;45167;paid_search;Ho Chi Minh
+C1263;44938;referral;Can Tho
+C1264;44975;email;Danang
+C1273;45308;referral;Can Tho
+C1285;45022;paid_search;Ho Chi Minh
+C1295;45392;paid_search;Ho Chi Minh
+C1297;45466;social;Hanoi
+C1372;45321;social;Hanoi
+C1376;45469;organic;Hue
+C1390;45257;paid_search;Ho Chi Minh
+C1426;45129;organic;Hue
+C1435;45462;paid_search;Ho Chi Minh
+C1453;45398;referral;Can Tho
+C1466;45149;organic;Hue
+C1469;45260;email;Danang
+C1486;45159;organic;Hue
+C1513;45428;referral;Can Tho
+C1524;45105;email;Danang
+C1532;45401;social;Hanoi
+C1537;45586;social;Hanoi
+C1572;45421;social;Hanoi
+C1580;44987;paid_search;Ho Chi Minh
+C1586;45209;organic;Hue
+C1613;45478;referral;Can Tho
+C1615;45552;paid_search;Ho Chi Minh
+C1639;44980;email;Danang
+C1655;45572;paid_search;Ho Chi Minh
+C1670;45397;paid_search;Ho Chi Minh
+C1680;45037;paid_search;Ho Chi Minh
+C1698;44973;referral;Can Tho
+C1717;44946;social;Hanoi
+C1722;45131;social;Hanoi
+C1756;44929;organic;Hue
+C1779;45050;email;Danang
+C1790;45457;paid_search;Ho Chi Minh
+C1797;44986;social;Hanoi
+C1809;45430;email;Danang
+C1837;45006;social;Hanoi
+C1850;45487;paid_search;Ho Chi Minh
+C1860;45127;paid_search;Ho Chi Minh
+C1874;45645;email;Danang
+C1888;45433;referral;Can Tho
+C1918;45083;referral;Can Tho
+C1929;45490;email;Danang
+C1937;45056;social;Hanoi
+C1944;45315;email;Danang
+C1991;45594;organic;Hue
+C2017;45096;social;Hanoi
+C2076;45089;organic;Hue
+C2085;45422;paid_search;Ho Chi Minh
+C2115;45072;paid_search;Ho Chi Minh
+C2131;44934;organic;Hue
+C2138;45193;referral;Can Tho
+C2141;45304;organic;Hue
+C2143;45378;referral;Can Tho
+C2162;45351;social;Hanoi
+C2179;45250;email;Danang
+C2190;44927;paid_search;Ho Chi Minh
+C2208;45593;referral;Can Tho
+C2229;45640;email;Danang
+C2234;45095;email;Danang
+C2274;45115;email;Danang
+C2288;45633;referral;Can Tho
+C2294;45125;email;Danang
+C2295;45162;paid_search;Ho Chi Minh
+C2331;45034;organic;Hue
+C2415;45222;paid_search;Ho Chi Minh
+C2435;45232;paid_search;Ho Chi Minh
+C2452;45131;social;Hanoi
+C2454;45205;email;Danang
+C2477;45326;social;Hanoi
+C2491;45114;organic;Hue
+C2497;45336;social;Hanoi
+C2509;45050;email;Danang
+C2528;45023;referral;Can Tho
+C2540;45467;paid_search;Ho Chi Minh
+C2554;45255;email;Danang
+C2591;45164;organic;Hue
+C2608;45063;referral;Can Tho
+C2626;44999;organic;Hue
+C2635;45332;paid_search;Ho Chi Minh
+C2640;45517;paid_search;Ho Chi Minh
+C2710;45187;paid_search;Ho Chi Minh
+C2711;45224;organic;Hue
+C2721;45594;organic;Hue
+C2731;45234;organic;Hue
+C2845;45072;paid_search;Ho Chi Minh
+C2864;45045;email;Danang
+C2885;45092;paid_search;Ho Chi Minh
+C2887;45166;social;Hanoi
+C2919;45620;email;Danang
+C2921;44964;organic;Hue
+C2947;45196;social;Hanoi
+C2962;45021;social;Hanoi
+C2963;45058;referral;Can Tho
+C2976;45539;organic;Hue
+C3018;45633;referral;Can Tho
+C3048;45283;referral;Can Tho
+C3049;45320;email;Danang
+C3057;45616;social;Hanoi
+C3060;44997;paid_search;Ho Chi Minh
+C3080;45007;paid_search;Ho Chi Minh
+C3099;44980;email;Danang
+C3116;45609;organic;Hue
+C3166;45269;organic;Hue
+C3176;45639;organic;Hue
+C3206;45289;organic;Hue
+C3220;45077;paid_search;Ho Chi Minh
+C3222;45151;social;Hanoi
+C3240;45087;paid_search;Ho Chi Minh
+C3300;45117;paid_search;Ho Chi Minh
+C3307;45376;social;Hanoi
+C3333;45608;referral;Can Tho
+C3350;45507;paid_search;Ho Chi Minh
+C3374;44935;email;Danang
+C3393;45638;referral;Can Tho
+C3399;45130;email;Danang
+C3439;45150;email;Danang
+C3457;45086;social;Hanoi
+C3465;45382;paid_search;Ho Chi Minh
+C3500;45217;paid_search;Ho Chi Minh
+C3538;45163;referral;Can Tho
+C3545;45422;paid_search;Ho Chi Minh
+C3548;45533;referral;Can Tho
+C3583;45368;referral;Can Tho
+C3593;45008;referral;Can Tho
+C3605;45452;paid_search;Ho Chi Minh
+C3645;45472;paid_search;Ho Chi Minh
+C3678;45233;referral;Can Tho
+C3683;45418;referral;Can Tho
+C3692;45021;social;Hanoi
+C3693;45058;referral;Can Tho
+C3695;45132;paid_search;Ho Chi Minh
+C3735;45152;paid_search;Ho Chi Minh
+C3738;45263;referral;Can Tho
+C3777;45246;social;Hanoi
+C3797;45256;social;Hanoi
+C3823;45488;referral;Can Tho
+C3830;45017;paid_search;Ho Chi Minh
+C3835;45202;paid_search;Ho Chi Minh
+C3845;45572;paid_search;Ho Chi Minh
+C3847;45646;social;Hanoi
+C3858;45323;referral;Can Tho
+C3860;45397;paid_search;Ho Chi Minh
+C3862;45471;social;Hanoi
+C3872;45111;social;Hanoi
+C3904;45565;email;Danang
+C3956;45299;organic;Hue
+C4073;45248;referral;Can Tho
+C4085;44962;paid_search;Ho Chi Minh
+C4147;45066;social;Hanoi
+C4161;45584;organic;Hue
+C4176;45409;organic;Hue
+C4196;45419;organic;Hue
+C4203;44948;referral;Can Tho
+C4209;45170;email;Danang
+C4256;45449;organic;Hue
+C4277;45496;social;Hanoi
+C4297;45506;social;Hanoi
+C4311;45294;organic;Hue
+C4359;45610;email;Danang
+C4361;44954;organic;Hue
+C4369;45250;email;Danang
+C4423;45058;referral;Can Tho
+C4441;44994;organic;Hue
+C4444;45105;email;Danang
+C4451;45364;organic;Hue
+C4481;45014;organic;Hue
+C4486;45199;organic;Hue
+C4487;45236;social;Hanoi
+C4501;45024;organic;Hue
+C4503;45098;referral;Can Tho
+C4571;45424;organic;Hue
+C4581;45064;organic;Hue
+C4622;45121;social;Hanoi
+C4644;45205;email;Danang
+C4651;45464;organic;Hue
+C4653;45538;referral;Can Tho
+C4654;45575;email;Danang
+C4674;45585;email;Danang
+C4687;45336;social;Hanoi
+C4700;45087;paid_search;Ho Chi Minh
+C4706;45309;organic;Hue
+C4710;45457;paid_search;Ho Chi Minh
+C4732;45541;social;Hanoi
+C4764;45265;email;Danang
+C4768;45413;referral;Can Tho
+C4815;44962;paid_search;Ho Chi Minh
+C4825;45332;paid_search;Ho Chi Minh
+C4826;45369;organic;Hue
+C4830;45517;paid_search;Ho Chi Minh
+C4831;45554;organic;Hue
+C4865;45352;paid_search;Ho Chi Minh
+C4927;45456;social;Hanoi
+C4956;45069;organic;Hue
+C4965;45402;paid_search;Ho Chi Minh
+C4981;45264;organic;Hue
+C4983;45338;referral;Can Tho
