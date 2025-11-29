@@ -91,7 +91,7 @@ High-level performance indicators (Revenue, AOV, Orders)
 
 📌 Page 2 — AOV, Retention & Repeat Behavior
 
-![Revenue & Orders](assets/screenshots/page2_aov_retention_repeat_vs_onetime.png)
+![AOV, Retention & Repeat Behavior](assets/screenshots/page2_aov_retention_repeat_vs_onetime.png)
 
 Insights delivered:
 
@@ -103,7 +103,7 @@ Clear visibility into customer lifetime patterns
 
 📌 Page 3 — Time & Location Insights
 
-![Revenue & Orders](assets/screenshots/page3_time_and_location.png)
+![Time & Location Insights](assets/screenshots/page3_time_and_location.png)
 
 Insights delivered:
 
@@ -115,7 +115,7 @@ Peak demand windows for campaign timing
 
 📌 Page 4 — Marketing Efficiency: ROI & ROAS
 
-![Revenue & Orders](assets/screenshots/page4_marketing_roi_roas.png)
+![Marketing Efficiency: ROI & ROAS](assets/screenshots/page4_marketing_roi_roas.png)
 
 A bubble chart comparing:
 
@@ -130,7 +130,7 @@ Channel annotations
 📌 Page 5 — RFM Segmentation & Strategic Actions
 1️⃣ Overview of all segments (bar chart + KPIs)
 
-![Revenue & Orders](assets/screenshots/page5_rfm_overview_all_segments.png)
+![RFM Segmentation & Strategic Actions - all segments](assets/screenshots/page5_rfm_overview_all_segments.png)
 
 Potential Loyal Customers
 
@@ -144,7 +144,7 @@ New Customers
 
 2️⃣ Drilldown by Segment (Dynamic Recommendations)
 
-![Revenue & Orders](assets/screenshots/page5_rfm_segment_drilldown_at_risk.png)
+![RFM Segmentation & Strategic Actions - drilldown by segment](assets/screenshots/page5_rfm_segment_drilldown_at_risk.png)
 
 Each segment includes:
 
