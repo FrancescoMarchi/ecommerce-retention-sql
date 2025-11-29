@@ -2,7 +2,7 @@
 
 **End-to-End Analytics Project — SQL (BigQuery) • Power BI • RFM Segmentation • Marketing ROI**
 
-This project simulates the analytics workflows used in a modern e-commerce company, turning raw transactional data into a complete **retention, customer behavior, and marketing efficiency** dashboard.
+This project simulates the analytics workflows used in a modern e-commerce company, turning raw transactional data into a complete **retention, customer behavior, and marketing efficiency dashboard**.
 
 The goal is to help stakeholders understand:
 
@@ -10,7 +10,7 @@ The goal is to help stakeholders understand:
 - Customer retention & repeat behavior  
 - Geographic and hourly purchasing patterns  
 - Marketing ROI & ROAS performance by channel  
-- Customer segmentation (RFM) and data-driven actions
+- Customer segmentation (RFM) and data-driven actions  
 
 ---
 
@@ -26,22 +26,22 @@ The goal is to help stakeholders understand:
 
 ## 🛠️ Tech Stack
 
-### Data Engineering & SQL
+### **Data Engineering & SQL**
 
-- **Google BigQuery**  
-- **SQL** for cleaning, transforming, and building analytical tables  
-- **Star-schema modelling** (Fact Orders + Dimensions)
+- Google BigQuery  
+- SQL for cleaning, transforming, and building analytical layers  
+- Star-schema modelling (Fact Orders + Dimensions)
 
-### Analytics & Visualization
+### **Analytics & Visualization**
 
-- **Power BI**  
-- **DAX** for segmentation metrics and interactive recommendations
+- Power BI  
+- DAX for metrics, segmentation, and dynamic recommendations  
 
-### Customer Segmentation
+### **Customer Segmentation**
 
-- **RFM scoring** (Recency, Frequency, Monetary)  
-- **Dynamic segment KPIs**  
-- Segment-level recommendations based on actual metrics
+- RFM scoring (Recency, Frequency, Monetary)  
+- Dynamic segment KPIs  
+- Segment-level recommendations powered by DAX  
 
 ---
 
@@ -65,205 +65,174 @@ The goal is to help stakeholders understand:
 └── README.md
 ```
 
-(BigQuery SQL is managed directly in the warehouse; key transformation logic is described in the Data Modelling section.)
+(BigQuery SQL is managed directly in the warehouse; core transformation logic is described in the **Data Modelling** section.)
 
-📈 Dashboard Overview
+---
+
+## 📈 Dashboard Overview
+
 Below is a walkthrough of each dashboard page with screenshot previews.
 
-📌 Page 1 — Revenue & Orders Over Time
+---
+
+## 📌 Page 1 — Revenue & Orders Over Time
 
 ![Revenue & Orders](assets/screenshots/page1_revenue_orders_quarter.png)
 
-Insights delivered:
+**Insights delivered:**
 
-Total revenue by quarter
+- Total revenue by quarter  
+- YOY seasonality patterns  
+- High-level KPIs (Revenue, AOV, Orders)  
 
-YOY seasonality patterns
+---
 
-High-level performance indicators (Revenue, AOV, Orders)
-
-📌 Page 2 — AOV, Retention & Repeat Behavior
+## 📌 Page 2 — AOV, Retention & Repeat Behavior
 
 ![AOV, Retention & Repeat Behavior](assets/screenshots/page2_aov_retention_repeat_vs_onetime.png)
 
-Insights delivered:
+**Insights delivered:**
 
-AOV trend split by new vs repeat customers
+- AOV trend split by **new vs repeat customers**  
+- Monthly **repeat-rate**  
+- Clear customer lifetime behavior patterns  
 
-Monthly repeat-rate trend
+---
 
-Clear visibility into customer lifetime behavior
-
-📌 Page 3 — Time & Location Insights
+## 📌 Page 3 — Time & Location Insights
 
 ![Time & Location Insights](assets/screenshots/page3_time_and_location.png)
 
-Insights delivered:
+**Insights delivered:**
 
-Purchases per hour of day and weekday
+- Orders per **hour** and **weekday**  
+- Geographic breakdown by location  
+- Identification of peak demand windows  
 
-Geographic breakdown by location
+---
 
-Identification of peak demand windows for campaign timing
-
-📌 Page 4 — Marketing Efficiency: ROI & ROAS
+## 📌 Page 4 — Marketing Efficiency: ROI & ROAS
 
 ![Marketing Efficiency: ROI & ROAS](assets/screenshots/page4_marketing_roi_roas.png)
 
-Bubble chart by marketing channel:
+A bubble chart comparing:
 
-X-axis: ROAS
+- **ROI**  
+- **ROAS**  
+- **Marketing spend** (bubble size)
 
-Y-axis: ROI
+**Annotations highlight:**
 
-Bubble size: Marketing spend
+- **Referral** — strongest ROI & ROAS  
+- **Paid Search** — underperforming  
+- **Email / Social** — strong mid-performers  
 
-Clear annotations for:
+This visual makes it clear where to **scale, optimize, or cut spend**.
 
-Referral (best)
+---
 
-Paid Search (underperforming)
+## 📌 Page 5 — RFM Segmentation & Strategic Actions
 
-Email / Social (solid mid-performers)
-
-This view makes it easy to see where to scale, optimize, or cut spend.
-
-📌 Page 5 — RFM Segmentation & Strategic Actions
-1️⃣ Overview of all segments (bar chart + KPIs)
+### 1️⃣ Segment Overview (All Customers)
 
 ![RFM Segmentation & Strategic Actions - all segments](assets/screenshots/page5_rfm_overview_all_segments.png)
 
 Segments:
 
-Potential Loyal Customers
+- Potential Loyal  
+- High Value  
+- At-Risk  
+- Lost  
+- New Customers  
 
-High Value Customers
-
-Lost Customers
-
-At-Risk Customers
-
-New Customers
-
-The bar chart shows customer count per segment, supported by cards with segment-level metrics.
-
-2️⃣ Drilldown by Segment (Dynamic Recommendations)
+### 2️⃣ Drilldown by Segment (Dynamic Recommendations)
 
 ![RFM Segmentation & Strategic Actions - drilldown by segment](assets/screenshots/page5_rfm_segment_drilldown_at_risk.png)
 
-For the selected segment, the dashboard displays:
+Each segment shows:
 
-Average Recency
+- **Avg. Recency**  
+- **Avg. Frequency**  
+- **Avg. Monetary**  
+- **Revenue**  
+- **AOV**  
+- Dynamic **strategy recommendation** (DAX-driven)  
 
-Average Frequency
+---
 
-Average Monetary value
+## 🧮 Data Modelling
 
-Segment Revenue
+This project uses a clean and robust **star schema**.
 
-Segment AOV
+### **Fact Table — Fact Orders**
 
-An automatically generated strategic action (driven by DAX), e.g.:
+Built from `raw.orders` (source: `orders_realistic_FINAL.csv`):
 
-“Re-engage about 900 inactive customers (avg recency ~370 days).”
+- `order_id`  
+- `customer_id`  
+- `order_date`  
+- `channel`, `location`  
+- Revenue, cost, profit fields  
 
-🧮 Data Modelling
-The model follows a simple but robust star schema.
+### **Dimensions**
 
-Fact Table
-Fact Orders
+#### **Dim Customers**
+Standardized customer data (IDs, channels, locations).
 
-Built directly from raw.orders (backed by orders_realistic_FINAL.csv)
+#### **Dim Customer RFM**
+From `customer_rfm_segments_clean`:
 
-One row per order with customer, channel, date, and financials
+- Recency (days since last order)  
+- Frequency  
+- Monetary  
+- R/F/M scores (1–5)  
+- Final segment group  
 
-Dimensions
-Dim Customers
+#### **Dim Channels**
+Consistent marketing + orders channel mapping.
 
-Standardized from customer raw data (cleaned IDs, channels, locations)
+#### **Dim Locations**
+Standardized city/region labels.
 
-Dim Customer RFM
+---
 
-Based on customer_rfm_segments_clean / customer_rfm_segments_v2
+## 🔁 RFM Pipeline (BigQuery)
 
-Includes:
+1. Compute **Recency, Frequency, Monetary**  
+2. Assign **R/F/M scores**  
+3. Map to final **segment groups**  
+4. Load into Power BI as `Dim Customer RFM`  
+5. Generate DAX-powered dynamic recommendations  
 
-customer_id
+---
 
-recency_days, frequency, monetary
+## 🎯 Key Quantitative Recommendations (Dynamic)
 
-r_score, f_score, m_score
+These insights update dynamically based on the selected segment:
 
-segment_group (High Value, At-Risk, etc.)
+- **At-Risk Customers** → Re-engage **~900** customers (avg recency **~370 days**)  
+- **High Value Customers** → Protect **~1,000** loyal customers  
+- **Lost Customers** → Win-back **~975** inactive users  
+- **Potential Loyal** → Nurture **~1,768** customers nearing loyalty  
 
-Dim Channels
+---
 
-From a mapping table to ensure consistent channel names across marketing + orders
+## 🚀 Final Notes
 
-Dim Locations
-
-Region / city standardization for geographic analysis
-
-RFM Pipeline (BigQuery)
-Compute RFM base metrics
-
-Recency (days since last order)
-
-Frequency (number of orders)
-
-Monetary (total spend)
-
-Assign R/F/M scores (1–5)
-
-Using quantiles / business rules
-
-Map into RFM segments
-
-customer_rfm_segments_clean table encodes segment logic
-
-Example segments: High Value, Potential Loyal, At-Risk, Lost, New
-
-Load into Power BI
-
-Used to drive all segment cards, tables, and recommendations
-
-🎯 Key Quantitative Recommendations (Dynamic)
-The dashboard generates segment-specific, data-driven actions such as:
-
-At-Risk Customers
-→ Re-engage ~900 customers with average recency ~370 days.
-
-High Value Customers
-→ Protect revenue by retaining ~1,000 high-spend customers.
-
-Lost Customers
-→ Launch win-back offers to ~975 customers with almost zero recent activity.
-
-Potential Loyal Customers
-→ Nurture ~1,768 customers who are close to becoming fully loyal.
-
-These numbers are not hard-coded: they update dynamically based on the selected segment and current data.
-
-🚀 Final Notes
 This project demonstrates:
 
-The full analytics lifecycle: from raw CSVs → SQL transformations → semantic model → dashboards
+- Full analytics lifecycle  
+- BigQuery SQL + professional modelling  
+- Clear, business-oriented Power BI storytelling  
+- Strong marketing + retention analytics  
+- Actionable, quantitative insights  
 
-Hands-on SQL and data modelling in BigQuery
+Structured to meet expectations of **Data Analyst** and **Business Analyst** roles.
 
-Business-oriented Power BI dashboards with clear storytelling
+---
 
-Marketing & retention analytics grounded in RFM and ROI/ROAS
+## 🙎‍♂️ Contact
 
-Concrete, quantitative recommendations instead of just charts
-
-It is structured to match the expectations of Data Analyst and Business Analyst hiring managers.
-
-🙎‍♂️ Contact
-For questions or collaboration:
-
-Name: Francesco Marchì
-
-Email: marchi.frncsc@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/francesco-march%C3%AC-115657205/
+**Francesco Marchì**  
+📧 marchi.frncsc@gmail.com  
+🔗 https://www.linkedin.com/in/francesco-march%C3%AC-115657205/
