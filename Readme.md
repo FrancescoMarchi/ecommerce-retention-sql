@@ -63,6 +63,10 @@ The goal is to help stakeholders understand:
 │   └── Ecommerce_RFM_Customer_Analytics.pbix
 ├── orders_realistic_FINAL.csv
 └── README.md
+
+```text
+
+
 (BigQuery SQL is managed directly in the warehouse; key transformation logic is described in the Data Modelling section.)
 
 📈 Dashboard Overview
