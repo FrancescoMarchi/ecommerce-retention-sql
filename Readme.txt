@@ -211,22 +211,6 @@ Nurture ~1,768 customers close to becoming full loyalists.
 
 These recommendations change dynamically based on the slicer.
 
-▶️ Loom Presentation (Suggested Script)
-
-A 4–5 minute professional walkthrough covering:
-
-Problem context
-
-Data modelling & SQL transformations
-
-Power BI dashboard pages
-
-RFM mechanics and recommendations
-
-Business value & next steps
-
-(I can generate the exact script and slide deck if you want.)
-
 🚀 Final Notes
 
 This project demonstrates:
