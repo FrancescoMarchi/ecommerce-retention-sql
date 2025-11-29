@@ -78,6 +78,8 @@ Below is a walkthrough of each dashboard page with screenshot previews.
 
 📌 Page 1 — Revenue & Orders Over Time
 
+![Revenue & Orders](assets/screenshots/page1_revenue_orders_quarter.png)
+
 Insights delivered:
 
 Total revenue by quarter
@@ -86,10 +88,10 @@ YOY seasonality patterns
 
 High-level performance indicators (Revenue, AOV, Orders)
 
-📷 Screenshot:
-
 
 📌 Page 2 — AOV, Retention & Repeat Behavior
+
+![Revenue & Orders](assets/screenshots/page2_aov_retention_repeat_vs_onetime.png)
 
 Insights delivered:
 
@@ -99,10 +101,9 @@ Monthly repeat-rate trend
 
 Clear visibility into customer lifetime patterns
 
-📷 Screenshot:
-
-
 📌 Page 3 — Time & Location Insights
+
+![Revenue & Orders](assets/screenshots/page3_time_and_location.png)
 
 Insights delivered:
 
@@ -112,10 +113,9 @@ Geographic breakdown by location
 
 Peak demand windows for campaign timing
 
-📷 Screenshot:
-
-
 📌 Page 4 — Marketing Efficiency: ROI & ROAS
+
+![Revenue & Orders](assets/screenshots/page4_marketing_roi_roas.png)
 
 A bubble chart comparing:
 
@@ -127,11 +127,10 @@ Marketing spend (bubble size)
 
 Channel annotations
 
-📷 Screenshot:
-
-
 📌 Page 5 — RFM Segmentation & Strategic Actions
 1️⃣ Overview of all segments (bar chart + KPIs)
+
+![Revenue & Orders](assets/screenshots/page5_rfm_overview_all_segments.png)
 
 Potential Loyal Customers
 
@@ -143,10 +142,9 @@ At-Risk Customers
 
 New Customers
 
-📷 Screenshot:
-
-
 2️⃣ Drilldown by Segment (Dynamic Recommendations)
+
+![Revenue & Orders](assets/screenshots/page5_rfm_segment_drilldown_at_risk.png)
 
 Each segment includes:
 
@@ -161,8 +159,6 @@ Revenue
 AOV
 
 Automatically generated strategic action (driven by DAX)
-
-📷 Screenshot:
 
 
 🧮 Data Modelling
@@ -227,8 +223,9 @@ Clear quantitative recommendations
 
 It is structured to match the expectations of Data Analyst hiring managers.
 
-🙌 Contact
+🙎‍♂️Contact
 
 For questions or collaboration:
 Francesco Marchì
-(You can add email or LinkedIn here)
+📧 marchi.frncsc@gmail.com
+LinkedIn: https://www.linkedin.com/in/francesco-march%C3%AC-115657205/
