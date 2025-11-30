@@ -16,11 +16,19 @@ The goal is to help stakeholders understand:
 
 ## 🧠 Key Business Questions
 
-1. **How are revenue and orders trending over time?**  
-2. **What does customer retention and AOV look like between new vs repeat customers?**  
-3. **How do time of day, weekday, and geography influence purchasing?**  
-4. **Which marketing channels provide the strongest ROAS and ROI?**  
-5. **What are our main customer segments and how should we act on them?**
+This project answers **three strategic questions**, each supported by detailed analytical breakdowns:
+
+### **1️⃣ How is the business performing over time?**
+- How are revenue and orders trending across quarters?
+- How is Average Order Value (AOV) evolving over time?
+
+### **2️⃣ How are our customers behaving?**
+- What does retention look like between new vs repeat customers?
+- How do time of day, weekday, and geography influence purchasing behavior?
+- What are our main RFM customer segments and what actions should we take for each?
+
+### **3️⃣ Where should we invest our marketing budget for the highest return?**
+- Which marketing channels deliver the strongest ROI and ROAS?
 
 ---
 
