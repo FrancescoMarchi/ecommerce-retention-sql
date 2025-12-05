@@ -2,7 +2,7 @@
 
 **End-to-End Analytics Project — SQL (BigQuery) • Power BI • RFM Segmentation • Marketing ROI**
 
-▶️ Explanatory video (https://www.loom.com/share/f64f0b609cc944af92d56ccfbf310e93)
+▶️ Video Presentation (https://www.loom.com/share/f64f0b609cc944af92d56ccfbf310e93)
 
 This project simulates the analytics workflows used in a modern e-commerce company, turning raw transactional data into a complete **retention, customer behavior, and marketing efficiency dashboard**.
 
